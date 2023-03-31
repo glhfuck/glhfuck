@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniil Aloshyn</h1>
+<h3 align="center">Software Engineer at Yandex</h3>
 <h3 align="center">Student of the Moscow Institute of Physics and Technology</h3>
 
-- 🌱 I’m currently learning: **Go, Docker**
+- 🌱 I’m currently learning: **Go**
 
 - 📫 How to reach me: **daniil.aleshin@phystech.edu**
 </p>
